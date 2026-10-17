@@ -8,7 +8,6 @@ Python code for a practical AWS Lambda Layers lab. The shared Layer contains the
 - `process_order.py`: order-processing Lambda handler.
 - `validate_customer.py`: customer-validation Lambda handler.
 - `requirements.txt`: pinned dependency version for repeatable builds.
-- `article-lambda-layers.md`: Portuguese blog article and walkthrough.
 
 ## Runtime
 
